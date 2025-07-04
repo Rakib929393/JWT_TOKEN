@@ -14,7 +14,7 @@ app = Flask(__name__)
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Telegram config
-TELEGRAM_BOT_TOKEN = "8078869487:AAE7Tpw9ndjLN8rADBE533H5VxZ_HZoy1Lo"
+TELEGRAM_BOT_TOKEN = "8078869487:AAF-Q8Mv3B_hUbC2JL0Pop2TJavDGWZjDjw"
 TELEGRAM_CHAT_ID = "6650010705"
 
 # GitHub config
