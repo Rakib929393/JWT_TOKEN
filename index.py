@@ -89,7 +89,7 @@ def TOKEN_MAKER(NEW_ACCESS_TOKEN ,NEW_OPEN_ID):
             "Authorization": "Bearer",
             "X-Unity-Version": "2018.4.11f1",
             "X-GA": "v1 1",
-            "ReleaseVersion": "OB48",
+            "ReleaseVersion": "OB49",
             "Content-Type": "application/x-www-form-urlencoded",
             "Content-Length": str(len(PAYLOAD.hex())),
             "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 12; ASUS_Z01QD Build/V417IR)",
